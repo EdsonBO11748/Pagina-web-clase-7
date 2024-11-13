@@ -1,0 +1,2 @@
+Esta página es una prueba para HTML no representa algún añadido hacia la escuela a la que se menciona.
+En ella unicamente se encuentran el uso de formularios (sin utilidad) así como prueba de imagenes y textos sin necesidad de ser veridicos.
